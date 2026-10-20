@@ -1,0 +1,30 @@
+{
+  "name": "projeto-react-router",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mariasantos1997/projeto-react-router#readme",
+  "bugs": {
+    "url": "https://github.com/mariasantos1997/projeto-react-router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariasantos1997/projeto-react-router.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "dom": "^0.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "vite": "^8.3.3"
+  }
+}
